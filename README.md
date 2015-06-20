@@ -21,7 +21,7 @@ for all of these awesome goodies are listed at the end of this page.
 * Visit Google Fonts - get link for Open Sans
 * Add HTML page - index.html
 * Add app.css to Custom folder
-* Add CSS references in `<head>` tag
+* Add CSS references in the opening `<head>` tag
 
 ```
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -32,7 +32,7 @@ for all of these awesome goodies are listed at the end of this page.
     <link href="styles/app.css" rel="stylesheet" />
 ```
 	
-* Add JavaScript references before closing `</body>` tag 
+* Add JavaScript references before the closing `</body>` tag 
 
 ```
 	<script src="scripts/jquery-1.9.1.min.js"></script>
