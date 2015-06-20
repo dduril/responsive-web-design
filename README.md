@@ -4,6 +4,8 @@
 
 This project was developed using Visual Studio 2013, but could just as easily been built a simple text editor or another IDE such as Aptana Studiom Brackets, Notepad++, Sublime or WebStorm.
 
+<a href="http://www.doug-duril.com/pages/demos/responsive-web-page/index.html" target="_blank"><strong>Demo</strong></a>
+
 * Open Visual Studio 2013
 * Create a new Web Project - empty, accept defaults
 * Right-click solution - Manage NuGet Packages...
@@ -16,23 +18,23 @@ This project was developed using Visual Studio 2013, but could just as easily be
 ```
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link href="../../Content/font-awesome.min.css" rel="stylesheet" />
-    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
-    <link href="../../Content/animate.css" rel="stylesheet" />
-    <link href="../../Content/app.css" rel="stylesheet" />
+    <link href="styles/font-awesome.min.css" rel="stylesheet" />
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+    <link href="styles/animate.css" rel="stylesheet" />
+    <link href="styles/app.css" rel="stylesheet" />
 ```
 	
 * Add JavaScript references before closing <code><body></code> tag 
 
 ```
-	<script src="../../scripts/jquery-1.9.1.min.js"></script>
-    <script src="../../scripts/bootstrap.min.js"></script>
-    <script src="../../scripts/classie.js"></script>
-    <script src="../../scripts/cbpAnimatedHeader.js"></script>
-    <script src="../../scripts/jquery.easing.1.3.js"></script>
-    <script src="../../scripts/jquery.stellar.js"></script>
-    <script src="../../scripts/wow.min.js"></script>
-    <script src="../../scrolling.js"></script>
+	<script src="scripts/jquery-1.9.1.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+    <script src="scripts/classie.js"></script>
+    <script src="scripts/cbpAnimatedHeader.js"></script>
+    <script src="scripts/jquery.easing.1.3.js"></script>
+    <script src="scripts/jquery.stellar.js"></script>
+    <script src="scripts/wow.min.js"></script>
+    <script src="scripts/scrolling.js"></script>
 ```
 
 #### Resources
