@@ -2,9 +2,14 @@
 
 #### Project Setup
 
-This project was developed using Visual Studio 2013, but could just as easily been built a simple text editor or another IDE such as Aptana Studiom Brackets, Notepad++, Sublime or WebStorm.
+This project was developed using Visual Studio 2013, but could just as easily been built using a simple text editor or IDE such as Aptana Studio, Brackets, Notepad++, Sublime or WebStorm.
+
+Follow this link to a live demo of the project. I used some images from a trip to the wine country in Napa, California.
 
 <a href="http://www.doug-duril.com/pages/demos/responsive-web-page/index.html" target="_blank"><strong>Demo</strong></a>
+
+Here are some basic instructions, if using Notepad++ or something else, it will be easier to just look at the source on the <code>index.html</code> file to see the references to the CSS and JavaScript libraries. Links
+for all of these awesome goodies are listed at the end of this page.
 
 * Open Visual Studio 2013
 * Create a new Web Project - empty, accept defaults
