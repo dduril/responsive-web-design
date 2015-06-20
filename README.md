@@ -25,19 +25,19 @@ This project was developed using Visual Studio 2013, but could just as easily be
 * Add JavaScript references before closing <code><body></code> tag 
 
 ```
-	<script src="../../Scripts/jquery-1.9.1.min.js"></script>
-    <script src="../../Scripts/bootstrap.min.js"></script>
-    <script src="../../Scripts/classie.js"></script>
-    <script src="../../Scripts/cbpAnimatedHeader.js"></script>
-    <script src="../../Scripts/jquery.easing.1.3.js"></script>
-    <script src="../../Scripts/jquery.stellar.js"></script>
-    <script src="../../Scripts/wow.min.js"></script>
-    <script src="scrolling.js"></script>
+	<script src="../../scripts/jquery-1.9.1.min.js"></script>
+    <script src="../../scripts/bootstrap.min.js"></script>
+    <script src="../../scripts/classie.js"></script>
+    <script src="../../scripts/cbpAnimatedHeader.js"></script>
+    <script src="../../scripts/jquery.easing.1.3.js"></script>
+    <script src="../../scripts/jquery.stellar.js"></script>
+    <script src="../../scripts/wow.min.js"></script>
+    <script src="../../scrolling.js"></script>
 ```
 
 #### Resources
 
-* <a href="https://www.google.com/fonts#QuickUsePlace:quickUse" target="_blank">Google Fonts</a>
+* <a href="https://www.google.com/fonts#" target="_blank">Google Fonts</a>
 * <a href="http://getbootstrap.com/css/" target="_blank">Bootstrap Viewport</a>
 * <a href="https://github.com/codrops/AnimatedHeader" target="_blank">Codrops - AnimatedHeader</a>
 * <a href="http://formstone.it/components/background/" target="_blank">Formstone - Background (Wallpaper)</a>
