@@ -1,0 +1,53 @@
+# Responsive Websites With Bootstrap 3
+
+#### Project Setup
+
+This project was developed using Visual Studio 2013, but could just as easily been built a simple text editor or another IDE such as Aptana Studiom Brackets, Notepad++, Sublime or WebStorm.
+
+* Open Visual Studio 2013
+* Create a new Web Project - empty, accept defaults
+* Right-click solution - Manage NuGet Packages...
+* Search for and install latest Bootstrap
+* Visit Google Fonts - get link for Open Sans
+* Add HTML page - index.html
+* Add app.css to Custom folder
+* Add CSS references in <code><head></code> tag
+
+```
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href="../../Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../Content/animate.css" rel="stylesheet" />
+    <link href="../../Content/app.css" rel="stylesheet" />
+```
+	
+* Add JavaScript references before closing <code><body></code> tag 
+
+```
+	<script src="../../Scripts/jquery-1.9.1.min.js"></script>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+    <script src="../../Scripts/classie.js"></script>
+    <script src="../../Scripts/cbpAnimatedHeader.js"></script>
+    <script src="../../Scripts/jquery.easing.1.3.js"></script>
+    <script src="../../Scripts/jquery.stellar.js"></script>
+    <script src="../../Scripts/wow.min.js"></script>
+    <script src="scrolling.js"></script>
+```
+
+#### Resources
+
+* <a href="https://www.google.com/fonts#QuickUsePlace:quickUse" target="_blank">Google Fonts</a>
+* <a href="http://getbootstrap.com/css/" target="_blank">Bootstrap Viewport</a>
+* <a href="https://github.com/codrops/AnimatedHeader" target="_blank">Codrops - AnimatedHeader</a>
+* <a href="http://formstone.it/components/background/" target="_blank">Formstone - Background (Wallpaper)</a>
+* <a href="http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height" target="_blank">Same-sized columns</a>	
+* <a href="http://getbootstrap.com/components/" target="_blank">Bootstrap Components - navbar</a>
+* <a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
+* <a href="http://getbootstrap.com/javascript/#scrollspy" target="_blank">Bootstrap Scrollspy</a>
+* <a href="http://daneden.github.io/animate.css/" target="_blank">Animate CSS</a>
+* <a href="http://mynameismatthieu.com/WOW/index.html" target="_blank">WOW home page</a>
+* <a href="https://github.com/matthieua/WOW" target="_blank">WOW github</a>
+* <a href="http://getbootstrap.com/javascript/#carousel" target="_blank">Bootstrap 3 Carousel</a>
+* <a href="http://gsgd.co.uk/sandbox/jquery/easing/" target="_blank">jQuery Easing</a>
+* <a href="http://markdalgleish.com/projects/stellar.js/" target="_blank">Stellar.js -  Parallax Scrolling</a>
