@@ -35,7 +35,7 @@ for all of these awesome goodies are listed at the end of this page.
 * Add JavaScript references before the closing `</body>` tag 
 
 ```
-	<script src="scripts/jquery-1.9.1.min.js"></script>
+    <script src="scripts/jquery-1.9.1.min.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
     <script src="scripts/classie.js"></script>
     <script src="scripts/cbpAnimatedHeader.js"></script>
