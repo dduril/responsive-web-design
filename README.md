@@ -2,12 +2,7 @@
 
 #### Project Setup
 
-This project was developed using Visual Studio 2013, but could just as easily been built using a simple text editor or IDE such as Aptana Studio, Brackets, Notepad++, Sublime or WebStorm.
-
-Follow the link for a live demo of the project:
-<a href="http://www.doug-duril.com/pages/demos/responsive-web-page/index.html" target="_blank"><strong>Demo</strong></a>
-
-I used some images from a trip to the wine country in Napa, California.
+This project was developed using Visual Studio 2013, but could just as easily been built using a simple text editor such as Aptana Studio, Brackets, Notepad++, Sublime or WebStorm.
 
 ***
 
